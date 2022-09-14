@@ -1,14 +1,12 @@
 #include "main.h"
 
-/*
- * main - check the code
+/**
+ * main - Entry point
  *
- * Return: Always 0 (Success) 
+ * Return: ALways 0 (Success)
  */
+
 int main(void)
 {
-	_putchar('_');
-	_putchar('p');
-
 	return (0);
 }
