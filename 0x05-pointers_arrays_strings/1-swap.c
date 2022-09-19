@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * swap - this functions swaps the value of each int a and b
+ * swap_int - this functions swaps the value of each int a and b
  * where a == b and b == a
  * @a: first int
  * @b: second int
