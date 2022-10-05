@@ -1,6 +1,6 @@
 #include "main.h"
 #include <stdio.h>
-#include <srdlib.h>
+#include <stdlib.h>
 
 /**
  * *str_concat - a function that concatenates two strings.
@@ -13,7 +13,7 @@
 
 char *str_concat(char *s1, char *s2)
 {
-	char str;
+	char *str;
 	unsigned int i;
 	unsigned int j;
 	unsigned int k;
